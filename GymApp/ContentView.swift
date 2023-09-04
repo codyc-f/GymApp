@@ -215,7 +215,7 @@ class ManagerClass: ObservableObject {
     }
     
     func start(){
-        mode = .runn    ing
+        mode = .running
         timer = Timer.scheduledTimer(withTimeInterval: 0.1, repeats: true){
             timer in self.secondElapsed += 1
             let time = self.secondsToFormat(seconds: Int(self.secondElapsed))
