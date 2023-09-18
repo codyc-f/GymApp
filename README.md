@@ -9,14 +9,14 @@ Features
 How to Use
 Timer Controls
 
-*Press the "Play" button to start the workout timer.
-While the timer is running, you can:
-Press the "Stop" button to stop the timer and clear lap timings.
-Press the "Stopwatch" button to record a lap time.
-Press the "Pause" button to pause the timer.
-In paused mode, you can:
-Press the "Stop" button to stop the timer and clear lap timings.
-Press the "Play" button to resume the timer.
+- Press the "Play" button to start the workout timer.
+- While the timer is running, you can:
+- Press the "Stop" button to stop the timer and clear lap timings.
+- Press the "Stopwatch" button to record a lap time.
+- Press the "Pause" button to pause the timer.
+- In paused mode, you can:
+- Press the "Stop" button to stop the timer and clear lap timings.
+- Press the "Play" button to resume the timer.
 
 Enter exercise names and the number of repetitions for up to three sets.
 Press the "Add Note" button to record more exercises.
