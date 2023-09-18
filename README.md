@@ -21,3 +21,5 @@ Timer Controls
 Enter exercise names and the number of repetitions for up to three sets.
 Press the "Add Note" button to record more exercises.
 Notes will display the exercise name and the number of repetitions for each exercise.
+
+![](https://github.com/codyc-f/GymApp/blob/main/GymApp/screenshot%20of%20gymapp%201.png)
